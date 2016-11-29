@@ -19,7 +19,7 @@ import java.util.Scanner;
 
 public class LojaDeTelemoveis 
 {
-
+/*shit this fuck`*/
     public static void main(String[] args) 
     {
         System.out.println("Bem vindo á loja de telemóveis\n\n");/*give another name*/
@@ -75,3 +75,5 @@ public class LojaDeTelemoveis
         Tech.setPreco(199);
         */
 }
+    
+
